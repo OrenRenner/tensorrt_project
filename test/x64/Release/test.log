@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2001: неразрешенный внешний символ "public: __cdecl tensorrt::MmposeTensorRT::~MmposeTensorRT(void)" (??1MmposeTensorRT@tensorrt@@QEAA@XZ).
+main.obj : error LNK2001: неразрешенный внешний символ "public: __cdecl tensorrt::MmposeTensorRT::MmposeTensorRT(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0MmposeTensorRT@tensorrt@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@@Z).
+F:\skeleton\tensorrt_project\x64\Release\test.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
